@@ -14,14 +14,6 @@ The project applies core OOP concepts through a pharmacy management system. It i
 - Manage prescription and off-the-shelf medications
 - Store customer address information
 
-
-## Technologies Used
-
-- C++
-- Object-Oriented Programming
-- Dynamic Memory Allocation
-- Modular Class Design
-
 ## Repository Contents
 
 - Source code cpp files
